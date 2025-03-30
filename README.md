@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="TITLE.svg" width="600" height="63" alt="Animated Title: Niner Games Template Repository">
+    <img src="TITLE.svg" width="600" height="63" alt="MagiEdit: Flutter App">
 </p>
 
 <hr>
